@@ -13,7 +13,7 @@
 # the License.
 
 @Wrangler
-Feature:  datatype parsers
+Feature:  datatype parser
 
   @BQ_SOURCE_TS_TEST @BQ_SINK_TEST
   Scenario: To verify User is able to run a pipeline using parse timestamp directive
